@@ -1,0 +1,56 @@
+html {
+    font-family: Garamond, "Times New Roman", serif;
+}
+body {background-color: #9385B6;
+    
+}
+
+{
+border-top: 2px solid #F00;
+border-bottom: 2px solid #F00;
+border-right: 2px dashed #F00;
+border-left: 2px dotted #F00;
+}
+
+h1 {
+    font-family: frutiger, "Arial", sans-serif;
+    font-size: 3rem;
+    color: #FAE448;
+    text-shadow: #494842 3px 3px
+}
+
+h3 {
+    font-family: Garamond, "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 1.75rem
+}
+
+h2 {
+    font-family: frutiger, "Arial", sans-serif;
+    font-size: 2rem;
+    line-height: 2rem;
+    color: #FAE448
+}
+        
+li {
+    font-size: 1rem;
+    line-height: 1.4rem
+}
+
+h4 {
+    font-size: 1.2rem;
+    line-height: 1.4rem
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+hr {
+    border: dashed 3px #494842;
+}
